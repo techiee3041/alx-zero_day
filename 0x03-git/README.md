@@ -1,1 +1,1 @@
-Git folder
+#created my first git repository
